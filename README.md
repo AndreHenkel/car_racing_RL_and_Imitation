@@ -6,6 +6,9 @@ Python 3.7
 openAI gym environment - CarRacing-v0: https://github.com/openai/gym/blob/master/gym/envs/box2d/car_racing.py
 pytorch
 
+Create a conda environment for that and install pytorch.
+Probably some minor packages will be needed additionally as well.
+
 ## Content
 You can manually drive and gather data
 You can use this data to train the imitation learning agent
