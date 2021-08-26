@@ -1,5 +1,3 @@
-# This project is for the University of Ulm for the project Deep Learning for Autonumous cars #
- By André Henkel Winter term 2020
 
 ## Install 
 Python 3.7
